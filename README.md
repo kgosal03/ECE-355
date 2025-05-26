@@ -13,3 +13,5 @@ Students will learn about hardware-software interplay and tradeoffs arising in m
 * Analyze simple examples of instruction-level parallelism involving pipeline hazards
 * Carry out IEEE-standardized floating-point arithmetic operations and format conversions
 * Show and analyze logic interface circuits implementing simple bus protocols
+
+Project Partner - Tanvir Kahlon
