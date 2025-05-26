@@ -1,3 +1,7 @@
+// NOTE: This code is for demonstration purposes only.
+//       It contains more comments than necessary to help explain each step.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -9,8 +13,6 @@
 
                 ECE 355 - Microprocessor-Based Systems
                           Fall 2024
-
-            PWM Signal Generation and Monitoring System
 
                -| Karanbir Gosal & Tanvir Kahlon |-
 
